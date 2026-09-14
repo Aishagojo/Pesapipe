@@ -1,4 +1,4 @@
-# PesaPipe
+# PesaPipe {on-going Project}
 
 **Bitcoin-to-KES remittances through the terminal and USSD.**
 
