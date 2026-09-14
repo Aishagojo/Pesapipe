@@ -1,0 +1,14 @@
+# Environment files stay local, including examples and backups.
+.env
+.env.*
+*.env
+*.env.*
+
+node_modules/
+coverage/
+dist/
+logs/
+*.log
+*.sqlite*
+*.db
+.DS_Store
